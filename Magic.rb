@@ -1,6 +1,17 @@
 print "How many cards are in your deck? "
 deck = gets.chomp.to_i
 
+
+
+
+
+
+
+
+
+
+
+
 print "How many lands in your deck? "
 land = gets.chomp.to_i
 
